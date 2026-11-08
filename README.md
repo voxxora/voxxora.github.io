@@ -1,2 +1,2 @@
-# voxxora.github.io
-Voxxora Music fanlinks (public pages only)
+# Voxxora fanlinks
+Public fanlink pages only. Source of truth lives elsewhere.
